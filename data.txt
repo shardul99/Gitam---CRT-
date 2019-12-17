@@ -1,0 +1,13 @@
+	
+
+
+This time it was opened by using nano command
+also we need to exit form this editor
+
+
+
+
+ Just playing around with the echo command
+ This is the 2nd line of text in the file
+ This is the 3rd line of data in the file
+ we can push any line of data using the >> symbol
